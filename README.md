@@ -1,7 +1,7 @@
 ### Hi there, I'm Ivan 👋
 iOS Developer
 
-- 🌱 I’m a begginer iOS developer
+- 🌱 I’m iOS developer
 - 📫 How to reach me: Telegram @prostor_off
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prostoroff)](https://git.io/streak-stats)
